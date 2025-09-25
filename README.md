@@ -21,24 +21,24 @@
 ## 💻 Tech Stack
 
 ### Programming Languages  
-![Rust](https://img.shields.io/badge/-Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)<br>
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white)<br>
 
 ### Databases  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![YugabyteDB](https://img.shields.io/badge/-YugabyteDB-%23f16236?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)<br>
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)<br>
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)<br>
+![YugabyteDB](https://img.shields.io/badge/-YugabyteDB-%23f16236?style=for-the-badge&logoColor=white)<br>
 
 ### Tools / Frameworks  
-![Axum](https://img.shields.io/badge/-Axum-%234b275f?style=for-the-badge&logo=rust&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-00C7B7?style=for-the-badge&logo=caddy&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
----
+![Axum](https://img.shields.io/badge/-Axum-%234b275f?style=for-the-badge&logo=rust&logoColor=white)<br>
+![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)<br>
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)<br>
+![Caddy](https://img.shields.io/badge/Caddy-00C7B7?style=for-the-badge&logo=caddy&logoColor=white)<br>
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)<br>
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)<br>
+
 
 ## 📊 GitHub Stats
 

@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Self-Taught Developer | Building tech for a better world</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Backend+Engineer+%7C+Rust+%26+TypeScript+Fan;Building+Brico+App+%F0%9F%9B%A0;Breaking+Tech+Barriers+One+Line+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Backend+Engineer+%7C+Rust+%26+TypeScript+Fan;Building+Dyzora+App+%F0%9F%9B%A0;Breaking+Tech+Barriers+One+Line+at+a+Time" alt="Typing SVG" />
 </p>
 
 ---

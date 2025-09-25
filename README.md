@@ -10,9 +10,9 @@
 ## 🧠 About Me
 
 - 🌍 I'm **Abdullah Riaz**, a **self-taught developer** from Pakistan  
-- 🔭 Currently working on a **construction-tech app called [Brico](https://github.com/abdullah-rust/Brico.git)**  
+- 🔭 Currently working on a ** Dyzora E-commerce Project [Dyzora](https://github.com/abdullah-rust/dyzora)**  
 - 🧱 Exploring **distributed databases** like **YugabyteDB** for future-proof scalability  
-- 🧠 Deepening my mastery in **Rust**, **TypeScript**, and **Axum**  
+- 🧠 Deepening my mastery in **Rust**, **TypeScript**,**Express**,**NextJS** and **Axum**  
 - 🎯 **Mission**: Use tech to create real-world impact and break global tech dependencies  
 - 💼 **Dream Goal**: Land a backend role at **FAANG**, driven purely by skill and vision  
 
@@ -31,8 +31,12 @@
 
 ### Tools / Frameworks  
 ![Axum](https://img.shields.io/badge/-Axum-%234b275f?style=for-the-badge&logo=rust&logoColor=white)  
-![Tauri](https://img.shields.io/badge/-Tauri-%233c3c3c?style=for-the-badge&logo=tauri&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-00C7B7?style=for-the-badge&logo=caddy&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 

@@ -26,7 +26,8 @@
 
 ### Databases  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![YugabyteDB](https://img.shields.io/badge/-YugabyteDB-%23f16236?style=for-the-badge&logoColor=white)
 
 ### Tools / Frameworks  
@@ -37,7 +38,6 @@
 ![Caddy](https://img.shields.io/badge/Caddy-00C7B7?style=for-the-badge&logo=caddy&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
